@@ -2,3 +2,8 @@ function plus(a,b){
     return a+b
 }
 console.log(plus(5,4))
+//add func 
+function minus(a,b){
+    return a-b
+}
+console.log(minus(4,2))
