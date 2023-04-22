@@ -7,3 +7,9 @@ function minus(a,b){
     return a-b
 }
 console.log(minus(4,2))
+
+//add func 
+function times(a,b){
+    return a*b
+}
+console.log(times(4,2))
