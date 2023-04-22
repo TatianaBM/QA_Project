@@ -13,3 +13,5 @@ function times(a,b){
     return a*b
 }
 console.log(times(4,2))
+console.log('hooiii')
+console.log('swiss')
